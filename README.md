@@ -1,11 +1,11 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/uHD9t4kUUuTXTLMuuu/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 # Welcome!
 ## I'm Leonardo Sousa! 
 
 Back-end Jr Developer focused in Node.js 👨🏻‍💻
 
-Tech lover and features! :heart:
+Tech lover and its features! :heart:
 
 Never stop learning! :rocket:
 
