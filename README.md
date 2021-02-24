@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/uHD9t4kUUuTXTLMuuu/giphy.gif">
 
 # Welcome!
 ## I'm Leonardo Sousa! 
