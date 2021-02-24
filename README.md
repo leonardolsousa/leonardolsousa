@@ -5,9 +5,9 @@
 
 Back-end Jr Developer focused in Node.js 👨🏻‍💻
 
-Tech lover and your features! ❤️
+Tech lover and features! :heart:
 
-Never stop learning! 🚀
+Never stop learning! :rocket:
 
 ## About me
 
@@ -18,4 +18,4 @@ Never stop learning! 🚀
 
 - Thanks for visiting!
 
-- Enjoy it!! 😉
+- Enjoy it!! :smiley:
