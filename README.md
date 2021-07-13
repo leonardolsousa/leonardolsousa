@@ -21,4 +21,5 @@ Never stop learning! :rocket:
 - Enjoy it!! :smiley:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardolsousa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardolsousa&count_private=true&include_all_commits=true&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolsousa&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
